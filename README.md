@@ -6,3 +6,5 @@
 5. npm start
 
 Jika sudah dapat berjalan di emulator, untuk build sesuai: https://docs.expo.io/versions/latest/distribution/building-standalone-apps/
+
+documentasi install react expo : https://facebook.github.io/react-native/docs/getting-started.html

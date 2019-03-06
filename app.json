@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "safarina",
+    "slug": "safarina",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+	"ios": {
+      "bundleIdentifier": "loopin.safarina"
+    },
+    "android": {
+      "package": "loopin.safarina"
+    },
+    "androidStatusBarColor": "#F26522",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#F26522"
+    },
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Prototype Safarina "
+  }
+}
